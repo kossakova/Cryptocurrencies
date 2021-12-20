@@ -12,10 +12,22 @@ Unsupervised machine learning is used to process data, to cluster, to reduce dim
 
 # Tasks
 
-- Deliverable 1: Preprocessing the Data for PCA
-- Deliverable 2: Reducing Data Dimensions Using PCA
-- Deliverable 3: Clustering Cryptocurrencies Using K-means
-- Deliverable 4: Visualizing Cryptocurrencies Results
+- **Deliverable 1: Preprocessing the Data for PCA**
+
+![get_dummies](https://github.com/kossakova/Cryptocurrencies/blob/main/PNG/get_dummies.png)
+
+- **Deliverable 2: Reducing Data Dimensions Using PCA**
+
+- **Deliverable 3: Clustering Cryptocurrencies Using K-means**
+
+![elbow_curve](https://github.com/kossakova/Cryptocurrencies/blob/main/PNG/elbow_curve.png)
+
+- **Deliverable 4: Visualizing Cryptocurrencies Results**
+
+![hvplot.scatter](https://github.com/kossakova/Cryptocurrencies/blob/main/PNG/hvplot.scatter.png)
+
+![scatter_3d](https://github.com/kossakova/Cryptocurrencies/blob/main/PNG/scatter_3d.png)
+
 
 # Resources & Packages 
 - Pandas
